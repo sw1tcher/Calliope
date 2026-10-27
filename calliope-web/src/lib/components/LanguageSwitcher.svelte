@@ -16,6 +16,7 @@
 	<option value="ja">日本語</option>
 	<option value="ko">한국어</option>
 	<option value="zh">中文</option>
+	<option value="ru">Русский</option>
 </select>
 
 <style>
